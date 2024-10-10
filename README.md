@@ -1,6 +1,17 @@
 ## Hi there 👋
 
-I'm Kang, a Techsd
+I'm Kang, a Maker from Penang, Malaysia, currently based in Hong Kong SAR  
+Interested in Embedded Programming, Machine Learning, Signal Processing, C/C++, Python  
+
+### 
+- The Hong Kong University of Science and Technology 2024-25
+- Fudan University 2020-24
+
+### Experience
+- Fudan Univ Research Assistant 2024
+- Suzhou Foohu Electronic Intern 2023
+- Mini-Circuit Tech. Intern 2022
+
 <!--
 **ceravio/ceravio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

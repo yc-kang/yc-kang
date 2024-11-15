@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm Kang, a Maker from Penang, Malaysia, currently based in Hong Kong SAR  
-Interested in Embedded Programming, Machine Learning, Signal Processing, C/C++, Python  
+Interested in Embedded Programming, Machine Learning, Signal Processing, C/C++, Python, Arduino, ESP32, ESP8266  
 
 ### 
 - MS ELEG, The Hong Kong University of Science and Technology 2024-25

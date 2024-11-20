@@ -8,6 +8,7 @@ Interested in Embedded Programming, Machine Learning, Signal Processing, C/C++, 
 - BE ELEG, Fudan University 2020-24
 
 ### Experience
+- Logistech Intern 2024
 - Fudan Univ Research Assistant 2024
 - Suzhou Foohu Electronic Intern 2023
 - Mini-Circuit Tech. Intern 2022

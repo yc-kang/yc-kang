@@ -8,6 +8,7 @@ Interested in Embedded Programming, Deep Learning, Signal Processing, C/C++, Pyt
 - BE ELEG, Fudan University 2020-24
 
 ### Experience
+- Hitachi Rail GTS Intern 2025
 - Fudan Univ Research Assistant 2024
 - Suzhou Foohu Electronic Intern 2023
 - Mini-Circuit Tech. Intern 2022

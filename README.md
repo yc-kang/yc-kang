@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I'm YC, from Malaysia, currently based in Hong Kong
-Interested in IT Automation, Deep Learning, Embedded Systems, C/C++, Python, Linux, Ansible, Jenkins, etc
+I'm YC, from Malaysia, currently based in Hong Kong  
+Interested in IT Automation, Deep Learning, Embedded Systems, C/C++, Python, Linux, Ansible, Jenkins, etc  
 Open to new-grad roles in 2025 (Software, System, DevOps roles)
 
 ### Education

@@ -1,17 +1,18 @@
 ## Hi there 👋
 
-I'm Kang, a Maker from Penang, Malaysia, currently based in Hong Kong SAR (prev based in Shanghai, China for 2 years)  
-Interested in Embedded Programming, Deep Learning, Signal Processing, C/C++, Python, Arduino, ESP32, ESP8266  
+I'm YC, from Malaysia, currently based in Hong Kong
+Interested in IT Automation, Deep Learning, Embedded Systems, C/C++, Python, Linux, Ansible, Jenkins, etc
+Open to new-grad roles in 2025 (Software, System, DevOps roles)
 
-### 
+### Education
 - MS ELEG, The Hong Kong University of Science and Technology 2024-25
 - BE ELEG, Fudan University 2020-24
 
-### Experience
+### Work Experiences
 - Hitachi Rail GTS Intern 2025
-- Fudan Univ Research Assistant 2024
-- Suzhou Foohu Electronic Intern 2023
-- Mini-Circuit Tech. Intern 2022
+- Logistech Intern 2024
+- Foohu Technologies Intern 2023
+- Mini-Circuits Intern 2022
 
 <!--
 **ceravio/ceravio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

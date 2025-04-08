@@ -5,12 +5,11 @@ Interested in IT Automation, Deep Learning, Embedded Systems, C/C++, Python, Lin
 Open to new-grad roles in 2025 (Software, System, DevOps roles)
 
 ### Education
-- MS ELEG, The Hong Kong University of Science and Technology 2024-25
-- BE ELEG, Fudan University 2020-24
+- MS EE, The Hong Kong University of Science and Technology 2024-25
+- BE EE, Fudan University 2020-24
 
 ### Work Experiences
 - Hitachi Rail GTS Intern 2025
-- Logistech Intern 2024
 - Foohu Technologies Intern 2023
 - Mini-Circuits Intern 2022
 

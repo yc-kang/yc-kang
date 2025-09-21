@@ -1,14 +1,15 @@
 ## Hi there 👋
 
-I'm YC, from Malaysia, currently based in Hong Kong  
+I'm YC, from Malaysia, currently based in Shanghai, China  
+Currently working on developing test automation solutions for Qualcomm's ADAS/AI SDK
 Interested in IT Automation, Deep Learning, Embedded Systems, C/C++, Python, Linux, Ansible, Jenkins, etc  
-Open to new-grad roles in 2025 (Software, System, DevOps roles)
 
 ### Education
 - MS EE, The Hong Kong University of Science and Technology 2024-25
 - BE EE, Fudan University 2020-24
 
 ### Work Experiences
+- Qualcomm Engineer 2025
 - Hitachi Rail GTS Intern 2025
 - Foohu Technologies Intern 2023
 - Mini-Circuits Intern 2022

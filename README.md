@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 I'm YC, from Malaysia, currently based in Shanghai, China  
-Currently working on developing test automation solutions for Qualcomm's ADAS/AI SDK
-Interested in IT Automation, Deep Learning, Embedded Systems, C/C++, Python, Linux, Ansible, Jenkins, etc  
+Currently working on developing test automation solutions for Qualcomm's ADAS/AI SDK  
+Tech-stack: Python (Robot-Framework, Selenium), C/C++, Linux/Shell, Grafana, Jenkins, Docker, AWS  
 
 ### Education
 - MS EE, The Hong Kong University of Science and Technology 2024-25
